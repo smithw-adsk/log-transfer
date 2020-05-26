@@ -1,3 +1,0 @@
-Linux : passed
-Mac : failed
-Windows : passed
