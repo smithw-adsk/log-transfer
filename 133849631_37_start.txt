@@ -1,0 +1,4 @@
+Remote build started
+Remote build number: /job/ecg-mayausd-branch-preflight-master-public/17
+Remote build launcher: /job/ecg-mayausd-branch-preflight-master-public-github/77
+Build branch: smithw/MAYA-105123/improved-messaging
