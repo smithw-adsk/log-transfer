@@ -1,4 +1,0 @@
-Remote build started
-Remote build number: 9
-Remote build launcher: 9
-Build branch: smithw/MAYA-105123/improved-messaging
