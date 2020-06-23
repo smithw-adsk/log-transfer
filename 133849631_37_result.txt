@@ -1,7 +1,0 @@
-Linux : passed
-Mac : passed
-Windows : passed
-
-Linux Build : /job/ecg-mayausd-branch-preflight-linux/235
-Mac Build : /job/ecg-mayausd-branch-preflight-osx/235
-Windows Build : /job/ecg-mayausd-branch-preflight-windows/247
