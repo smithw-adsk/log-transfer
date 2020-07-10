@@ -1,0 +1,4 @@
+Remote build started
+Remote build number: /job/ecg-mayausd-branch-preflight-master-public/68
+Remote build launcher: /job/ecg-mayausd-branch-preflight-master-public-github/109
+Build branch: smithw-test-preflight-2020
