@@ -1,0 +1,4 @@
+Remote build started
+Remote build number: /job/ecg-mayausd-branch-preflight-master-public/14
+Remote build launcher: /job/ecg-mayausd-branch-preflight-master-public-github/119
+Build branch: smithw/cosmetic_change
